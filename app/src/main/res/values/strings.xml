@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="title_home">Данные</string>
+    <string name="title_dashboard">График</string>
+    <string name="title_notifications">Статистика</string>
+</resources>
